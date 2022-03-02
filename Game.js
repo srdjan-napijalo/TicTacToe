@@ -80,4 +80,4 @@ function Game() {
     </div>
     </>)
   }
-export default App;  
+export default Game;  
